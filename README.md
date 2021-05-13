@@ -16,3 +16,6 @@ II - Connecting to the cluster created at 9200 port through jupyter/researchcoll
   
 III - Congratulations, now you are free to explore elasticsearch!!!
 
+  Refer to elastic_search.py for just the input commands.
+  Refer to elastic_search.pynb for input as well as output. (My file downloaded from research collab)
+
